@@ -1,0 +1,7 @@
+{
+    "verilog.linting.linter": "xvlog",
+    "files.associations": {
+        "*.v": "systemverilog",
+        "*.sv": "systemverilog"
+    }
+}
